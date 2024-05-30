@@ -1,0 +1,20 @@
+2024-05-23 16:47:57,479 - INFO - Downloading file '../Monthly_Input_Files/data_05.23.2024.zip'.
+2024-05-23 16:47:57,484 - INFO - File '../Monthly_Input_Files/data_05.23.2024.zip' downloaded successfully!
+2024-05-23 16:47:57,516 - INFO - Files extracted to '../Monthly_Input_Files/data_05.23.2024'.
+2024-05-23 16:47:57,517 - INFO - Excel file found and renamed to: Medi-Cal Rates 05.23.2024.xlsx
+2024-05-23 16:48:01,400 - INFO - File 'Mcal_Injections.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,417 - INFO - File 'Mcal_Injections_Other.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,434 - INFO - File 'Mcal_Vaccines.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,440 - INFO - File 'Anesthesia_Base.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,477 - INFO - File 'MCal_Surgical.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,501 - INFO - File 'MCal_Radiology.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,534 - INFO - File 'MCal_Path and Lab.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,567 - INFO - File 'MCal_Medicine.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,599 - INFO - File 'MCal_Asst_Surgical.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,630 - INFO - File 'MCal_Podiatrists.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,653 - INFO - File 'MCal_Behavioral Health.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,675 - INFO - File 'MCal_EPSDT.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,692 - INFO - File 'MCal_Vision.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,721 - INFO - File 'Mcal_Allied.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,736 - INFO - File 'Mcal_DME.2024-05-01.txt' created successfully!
+2024-05-23 16:48:01,785 - INFO - File 'DNU_Mcal_Augment.2024-05-01.txt' created successfully!

@@ -1,0 +1,17 @@
+{
+    "log_config": "logging_config.ini",
+    "download_url": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/assets/E008901C-A316-4FA9-AF1A-CDBBAE5D8BEC?download",
+    "columns_names":["Proc_Type", "Proc_Code", "Procedure_Description", "Unit_Value","Basic_Rate", "Child_Rate", "ER_Rate", "Conv_Ind", "ER_Ind","Cutback_Ind", "Prof_%", "Rental_Rate", "Non_Physn_Med_Prac_Ind"],
+    "ac_columns_names":["Proc_Code", "Procedure_Description_for_Augmentation", "Basic_rate", "Proc_Type"],
+    "hrp_columns_format":["SVC_CD", "MODIFIER_1", "FEE", "AGE_UNIT", "FROM_AGE", "THROUGH_AGE", "PLACE_OF_SERVICE_CODE"],
+    "anes_hrp_format":["CPT Code", "CPT Descriptor", "Base Unit Value"],
+    "modifier_professional": "26",
+    "modifier_technical": "TC",
+    "modifier_purchase": "NU",
+    "modifier_rental": "RR",
+    "place_of_service_code": "23",
+    "age_unit_child": "3",
+    "from_age_child": "0",
+    "through_age_child": "18"
+}
+  
