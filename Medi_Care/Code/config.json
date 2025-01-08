@@ -1,7 +1,7 @@
 {
     "_comment(asp)": "Configuration for the ASP processing script",
-    "asp_zip_path": "../Input_Files/Jan_2025_ASP_Pricing_File_010125.zip",
-    "asp_excel_file": "Jan 2025 ASP Pricing File 120624.xls",
+    "asp_zip_path": "../Input_Files/oct-2024-asp-pricing-file-updated-120524.zip",
+    "asp_excel_file": "Oct 2024 ASP Pricing File updated 120524.xls",
     "asp_output_path_template": "../Output_Files/MCare_ASP_{date}.txt",
 
 
