@@ -1,13 +1,13 @@
 {
     "_comment(asp)": "Configuration for the ASP processing script",
-    "asp_zip_path": "../Input_Files/jan-2025-asp-pricing-file-121924.zip",
-    "asp_excel_file": "Jan 2025 ASP Pricing File 121924.xls",
+    "asp_zip_path": "../Input_Files/apr-2025-asp-pricing-file-032725.zip",
+    "asp_excel_file": "APR 2025 ASP Pricing File 032725.xls",
     "asp_output_path_template": "../Output_Files/MCare_ASP_{date}.txt",
 
 
     "_comment(clfs)": "Configuration for the CLFS processing script",
-    "clfs_zip_path": "../Input_Files/25clabq1.zip",
-    "clfs_excel_file": "CLFS 2025 Q1V1.xlsx",
+    "clfs_zip_path": "../Input_Files/25clabq2.zip",
+    "clfs_excel_file": "CLFS 2025 Q2V1.xlsx",
     "clfs_output_path_template": "../Output_Files/MCare_Clinical_Lab_{pattern}.txt",
     "rate_column_prefix": "RATE"
 }
